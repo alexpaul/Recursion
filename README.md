@@ -1,6 +1,6 @@
 # Recursion
 
-Recursion: in computer science and Swift this is the process whereby a function calls itself. A recursive function must have a base case and the recursive call. 
+Recursion: in computer science and Swift this is the process whereby a function calls itself. A recursive function must have a **base case** and the **recursive call**. 
 
 ```swift 
 func countDownToSwiftVersion1(_ n: Int) {
